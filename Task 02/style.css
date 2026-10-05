@@ -1,0 +1,18 @@
+
+body {
+    background-color: #f5f6f8;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+h1 {
+    font-weight: bold;
+}
+

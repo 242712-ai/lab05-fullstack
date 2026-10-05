@@ -1,0 +1,32 @@
+body {
+    background-color: #f5f6f8;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.student-card {
+    height: 100%;
+}
+
+.result-box {
+    margin-top: 15px;
+}
+
+.stat-box {
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #f8f9fa;
+}
+
+.stat-number {
+    font-size: 28px;
+    font-weight: bold;
+}

@@ -1,0 +1,23 @@
+body {
+    background-color: #f5f6f8;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+#output {
+    min-height: 150px;
+}
+
+.step {
+    padding: 10px;
+    margin-bottom: 8px;
+    border-radius: 6px;
+    background-color: #f8f9fa;
+}

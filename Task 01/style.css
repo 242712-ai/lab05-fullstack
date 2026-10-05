@@ -1,0 +1,30 @@
+
+body {
+    background-color: #f4f6f9;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #212529;
+    font-weight: bold;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+}
+
+h5 {
+    color: #0d6efd;
+    margin-top: 15px;
+}
+
+p {
+    color: #333;
+    line-height: 1.6;
+}
+
+hr {
+    margin: 20px 0;
+}
+
